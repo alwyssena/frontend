@@ -1,0 +1,18 @@
+
+
+
+@media (max-width: 800px) {
+    .bg {
+        flex-direction: column;
+        flex-direction: column-reverse;
+      
+    }
+  }
+
+  @media (max-width:800px){
+    .v{
+        width: 100vw;
+        width: 100vw;
+        flex-wrap: wrap;
+    }
+  }
